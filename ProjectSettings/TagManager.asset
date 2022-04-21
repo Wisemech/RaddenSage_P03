@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Course
   - Death
+  - Interactable
   layers:
   - Default
   - TransparentFX
