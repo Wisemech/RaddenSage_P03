@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5604812148817519047}
   - component: {fileID: 5604812148817519044}
   - component: {fileID: 5604812148817519045}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Runnable_Wall
   m_TagString: Interactable
   m_Icon: {fileID: 0}
